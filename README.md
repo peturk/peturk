@@ -10,12 +10,6 @@ I build AI systems that run in production: agent architectures, LLM integrations
 - **[Sporbók](https://sporbok.is)** — offline-first operational platform for field workforces
 - **[Tripflix](https://tripflix.com)** — discover and book tours worldwide
 
-### Stack
-
-TypeScript, Bun, React, PostgreSQL, Kubernetes
-
-Everything runs on self-managed K8s infrastructure.
-
 ### Links
 
 - [peturk.com](https://peturk.com)
