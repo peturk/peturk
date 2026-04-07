@@ -1,8 +1,8 @@
 # Pétur Kristófer
 
-AI software engineer building products that ship — from first prompt to training your own models.
+AI software engineer with 8 years of experience — from training custom models to building production-ready AI solutions.
 
-I build AI systems that run in production. From wiring up agent architectures to shipping products that handle real traffic. Before focusing on AI, I shipped full-stack products across the whole scale — applications, games, tools, developer infrastructure.
+I build AI systems that run in production: agent architectures, LLM integrations, fine-tuning pipelines, and products that handle real traffic. Before focusing on AI, I shipped full-stack products across the whole scale — applications, games, tools, developer infrastructure.
 
 ### What I'm working on
 
@@ -12,13 +12,9 @@ I build AI systems that run in production. From wiring up agent architectures to
 
 ### Stack
 
-TypeScript, Bun, React, PostgreSQL, Kubernetes, GSAP
+TypeScript, Bun, React, PostgreSQL, Kubernetes
 
 Everything runs on self-managed K8s infrastructure.
-
-### Courses
-
-I teach AI courses covering the full range: understanding what AI can do, shipping real software with AI, and going deep into model training and multi-agent systems.
 
 ### Links
 
