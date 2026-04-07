@@ -1,29 +1,26 @@
-# 👋 Hi, I'm Pétur Kristófer Oddsson (@peturk)
+# Pétur Kristófer
 
-Welcome to my GitHub! I'm a seasoned Senior Software Engineer with a keen interest in cloud infrastructure, backend development, and leveraging AI for innovative solutions. With a Master's in Software Engineering from Reykjavík University, my journey has been about solving complex challenges, enhancing technological frameworks, and driving projects that merge creativity with technical expertise.
+AI software engineer building products that ship — from first prompt to training your own models.
 
-## 👀 I'm interested in:
-- Cloud computing and its transformative power in the tech landscape.
-- The potential of AI and machine learning to solve real-world problems.
-- Developing scalable, efficient backend systems that power seamless user experiences.
+I build AI systems that run in production. From wiring up agent architectures to shipping products that handle real traffic. Before focusing on AI, I shipped full-stack products across the whole scale — applications, games, tools, developer infrastructure.
 
-## 🌱 I’m currently learning:
-- Advanced cloud architecture strategies to optimize infrastructure for scalability and reliability.
-- The latest in AI and machine learning, focusing on deep learning and its applications in image and data analysis.
-- Leadership skills that foster innovation, teamwork, and operational excellence in tech teams.
+### What I'm working on
 
-## 💞️ I’m looking to collaborate on:
-- Projects that aim to leverage cloud technology and AI for social impact.
-- Innovative backend solutions that challenge the status quo and introduce new efficiencies.
-- Initiatives that value clean, optimal problem-solving and the power of technology to improve lives.
+- **[Reiknís](https://reiknis.is)** — ERP and accounting for Icelandic businesses
+- **[Sporbók](https://sporbok.is)** — offline-first operational platform for field workforces
+- **[Tripflix](https://tripflix.com)** — discover and book tours worldwide
 
-## 📫 How to reach me:
-- Email: [peturko@gmail.com](mailto:peturko@gmail.com)
-- LinkedIn: [https://linkedin.com/in/pétur-k-oddsson](https://linkedin.com/in/pétur-k-oddsson)
+### Stack
 
-I'm always eager to connect with fellow tech enthusiasts, collaborate on projects, and share insights. Whether you're looking for a project partner, have a question, or just want to say hi, don't hesitate to reach out!
+TypeScript, Bun, React, PostgreSQL, Kubernetes, GSAP
 
-<!---
-peturk/peturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Everything runs on self-managed K8s infrastructure.
+
+### Courses
+
+I teach AI courses covering the full range: understanding what AI can do, shipping real software with AI, and going deep into model training and multi-agent systems.
+
+### Links
+
+- [peturk.com](https://peturk.com)
+- [LinkedIn](https://linkedin.com/in/pétur-k-oddsson)
